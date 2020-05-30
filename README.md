@@ -1,2 +1,2 @@
-# Todo-List-App
-Todo-List-App with HTML, CSS, JS
+# To-Do-List-App
+https://g-ratel.github.io/To-Do-List-App/
